@@ -7,6 +7,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071952,50:088395,100:37B7C3&height=230&section=header&text=CHRIS%20FAVOUR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Backend%20Engineer%20%7C%20Data%20Analyst&descAlignY=60&descSize=17" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B7CFF&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;Developing+Reliable+Backend+Systems;Turning+Data+Into+Insights;Creating+Solutions+That+Matter" alt="Typing introduction" />
+</p>
 <h1 align="center">Hi there, I'm Chris Favour 👋</h1>
 
 <h3 align="center">
